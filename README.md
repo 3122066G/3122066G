@@ -19,7 +19,7 @@ My work focuses on the use of **geospatial data, quantitative analysis, and comp
 
 - 🗺️ GIS, Spatial Statistics & Geovisualisation  
 - 🏥 Healthcare Accessibility & Service Allocation  
-- 🌍 Urban Inequality & Deprivation Analysis  
+- 🌍 Urban Inequity & Deprivation Analysis  
 - 🏘️ Housing Analytics & Airbnb Research  
 - 🤖 Python, R & Data-Driven Urban Modelling  
 
