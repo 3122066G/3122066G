@@ -28,7 +28,7 @@ My work focuses on the use of **geospatial data, quantitative analysis, and comp
 
 ## 🛠️ Technical Skills
 
-- **GIS:** ArcGIS Pr
+- **GIS:** ArcGIS Pro
 - **Programming:** Python, R, SQL
 - **Methods:** Spatial analysis, regression network analysis
 - **Data:** Census, SIMD, Inside Airbnb
