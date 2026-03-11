@@ -1,16 +1,49 @@
-## Hi there 👋
+# Huan Gong
 
-<!--
-**3122066G/3122066G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MSc Urban Analytics Student | GIS, Spatial Analysis & Urban Data Research**
 
-Here are some ideas to get you started:
+📍 University of Glasgow  
+📧 3122066G@student.gla.ac.uk
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👋 About Me
+
+I am a postgraduate student in **Urban Analytics** at the **University of Glasgow**, with research interests in **GIS, spatial statistics, urban inequity, public service accessibility, and platform urbanism**.
+
+My work focuses on the use of **geospatial data, quantitative analysis, and computational methods** to understand urban problems and support evidence-based planning.
+
+---
+
+## 🔬 Research Themes
+
+- 🗺️ GIS, Spatial Statistics & Geovisualisation  
+- 🏥 Healthcare Accessibility & Service Allocation  
+- 🌍 Urban Inequality & Deprivation Analysis  
+- 🏘️ Housing Analytics & Airbnb Research  
+- 🤖 Python, R & Data-Driven Urban Modelling  
+
+
+---
+
+## 🛠️ Technical Skills
+
+- **GIS:** ArcGIS Pr
+- **Programming:** Python, R, SQL
+- **Methods:** Spatial analysis, regression network analysis
+- **Data:** Census, SIMD, Inside Airbnb
+
+---
+
+## 🎓 Education
+
+**University of Glasgow**  
+MSc Urban Analytics  
+**University of Science and Technology Beijing**  
+Mathematics and Applied Mathematics  
+
+---
+
+## 📫 Contact
+
+- Email: 3122066G@student.gla.ac.uk
